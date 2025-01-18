@@ -6,7 +6,7 @@ set -e
 # Variables
 IMAGE_NAME="my-python-app"
 IMAGE_TAG="latest"
-REGISTRY_URL="atuljkamble"  # Replace with your Docker registry URL if needed
+REGISTRY_URL="ybadhe"  # Replace with your Docker registry URL if needed
 
 # Build the Docker image (optional, if not already built)
 echo "Building Docker image..."
