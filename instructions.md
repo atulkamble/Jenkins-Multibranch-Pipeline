@@ -1,3 +1,4 @@
+```
 1) fork repo https://github.com/atulkamble/Jenkins-Multibranch-Pipeline
 2) update dockerhub username in deploy.sh
 3) Update credentials id in Jenkinsfile
@@ -15,4 +16,6 @@ Repo HTTP URL >> (tip: add your repo url )
 
 https://github.com/atulkamble/Jenkins-Multibranch-Pipeline.git
 
-SCAN REPO >> 
+SCAN REPO >>
+brew services restart jenkins-lts
+```
